@@ -3,3 +3,4 @@
 
 ## firebase tools
 ## material UI
+## npm i firebase
